@@ -9,5 +9,5 @@ Determine the minimum number of operations required to make M the maximum value 
 <b>Input Format </b> <br>
 
 The first line of input will contain a single integer T, denoting the number of test cases. Each test case consists of multiple lines of input: The first line of each test case contains a single integer N — the size of the array. The next line of each test case contains N space-separated integers A1, A2, ..., AN — the elements of the array. <br>
-<b>CODE - </b> <br>
+<b>CODE - </b> https://github.com/sushma879/problem-solving-using-python/blob/main/p1.py<br>
 
