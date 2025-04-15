@@ -28,5 +28,5 @@ The second line contains N integers — the elements of array A. <br>
 <b>Output Format</b> <br>
 
 Print the elements of the Balance Array B, separated by spaces, that the ElevateBox has computed. <br>
-<b>Code:</b> <br>
+<b>Code:</b>https://github.com/sushma879/problem-solving-using-python/blob/main/p2.py<br>
 
