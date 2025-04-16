@@ -9,6 +9,7 @@ The first line contains a single integer N, which indicates the height of the tr
 
 For an input of N, print the right angle triangle asshown in the example. <br>
 <b>Code:</b> <br>
+<pre>
 n=int(input()) <br>
 c=1 <br>
 integer=1 <br>
@@ -18,5 +19,6 @@ while c<=n: <br>
         integer=integer+1 <br>
     c=c+1 <br>
     print() <br>
+</pre>
 
 
